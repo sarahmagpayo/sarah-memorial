@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>In Loving Memory of Sarah Jean Castro Magpayo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -24,6 +25,14 @@
       width: 100%;
       border-radius: 8px;
     }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.5em;
+    }
+    p {
+      font-size: 1.1em;
+      margin-bottom: 2em;
+    }
   </style>
 </head>
 <body>
@@ -35,10 +44,10 @@
     <iframe src="https://drive.google.com/file/d/1mUtyvyhZB0TuYuRtApF3k3rX4TItgR0S/preview" height="360" allow="autoplay"></iframe>
 
     <!-- Sarah's Music -->
-   <audio controls>
-  <source src="https://drive.google.com/uc?export=download&id=1yi2ct7k_mxU8KYtfBrJ7vbpqNSzPjQ3u" type="audio/mp4">
-  Your browser does not support the audio element.
-</audio>
+    <audio controls>
+      <source src="https://drive.google.com/uc?export=download&id=1XljHmcx_wmIvcEFYDKvG5zTuDnNNBq04" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
   </div>
 </body>
 </html>
