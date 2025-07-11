@@ -35,10 +35,10 @@
     <iframe src="https://drive.google.com/file/d/1mUtyvyhZB0TuYuRtApF3k3rX4TItgR0S/preview" height="360" allow="autoplay"></iframe>
 
     <!-- Sarah's Music -->
-    <audio controls>
-      <source src="https://drive.google.com/uc?export=download&id=1yi2ct7k_mxU8KYtfBrJ7vbpqNSzPjQ3u" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
+   <audio controls>
+  <source src="https://drive.google.com/uc?export=download&id=1yi2ct7k_mxU8KYtfBrJ7vbpqNSzPjQ3u" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
   </div>
 </body>
 </html>
