@@ -39,7 +39,20 @@
       color: #555;
     }
     .song {
-      margin-bottom: 30px;
+      margin: 15px 0;
+    }
+    .song a {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #333;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 1em;
+      transition: background 0.3s;
+    }
+    .song a:hover {
+      background-color: #555;
     }
   </style>
 </head>
@@ -55,28 +68,28 @@
     <h2>🎵 Sarah’s Voice and Songs</h2>
 
     <div class="song">
-      <p><strong>1. Song 1</strong></p>
-      <iframe src="https://voca.ro/13eyvRnKnXA0/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
+      <p><strong>1. All I Ask</strong></p>
+      <a href="https://voca.ro/13eyvRnKnXA0" target="_blank">🔊 Click to Play</a>
     </div>
 
     <div class="song">
       <p><strong>2. Song 2</strong></p>
-      <iframe src="https://voca.ro/1EFxuF833pOE/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
+      <a href="https://voca.ro/1EFxuF833pOE" target="_blank">🔊 Click to Play</a>
     </div>
 
     <div class="song">
       <p><strong>3. Song 3</strong></p>
-      <iframe src="https://voca.ro/16NCMEUtBn2j/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
+      <a href="https://voca.ro/16NCMEUtBn2j" target="_blank">🔊 Click to Play</a>
     </div>
 
     <div class="song">
       <p><strong>4. Song 4</strong></p>
-      <iframe src="https://voca.ro/1blSLzBfHA8G/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
+      <a href="https://voca.ro/1blSLzBfHA8G" target="_blank">🔊 Click to Play</a>
     </div>
 
     <div class="song">
       <p><strong>5. Song 5</strong></p>
-      <iframe src="https://voca.ro/17wgsMOF3qZW/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
+      <a href="https://voca.ro/17wgsMOF3qZW" target="_blank">🔊 Click to Play</a>
     </div>
 
   </div>
