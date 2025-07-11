@@ -20,7 +20,7 @@
       border-radius: 8px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
-    iframe, audio {
+    iframe {
       margin-top: 20px;
       width: 100%;
       border-radius: 8px;
@@ -39,19 +39,19 @@
       color: #555;
     }
     .song {
-      margin: 15px 0;
+      margin-bottom: 20px;
     }
-    .song a {
+    .play-button {
       display: inline-block;
       padding: 10px 20px;
       background-color: #333;
-      color: white;
-      text-decoration: none;
+      color: #fff;
       border-radius: 6px;
-      font-size: 1em;
-      transition: background 0.3s;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background-color 0.3s;
     }
-    .song a:hover {
+    .play-button:hover {
       background-color: #555;
     }
   </style>
@@ -64,32 +64,32 @@
     <!-- Sarah's Video -->
     <iframe src="https://drive.google.com/file/d/1mUtyvyhZB0TuYuRtApF3k3rX4TItgR0S/preview" height="360" allow="autoplay"></iframe>
 
-    <!-- Sarah’s Music via Vocaroo -->
-    <h2>🎵 Sarah’s Voice and Songs</h2>
+    <!-- Music Section -->
+    <h2>🎵 Sarah’s Songs</h2>
 
     <div class="song">
-      <p><strong>1. All I Ask</strong></p>
-      <a href="https://voca.ro/13eyvRnKnXA0" target="_blank">🔊 Click to Play</a>
+      <p><strong>All I Ask</strong></p>
+      <a class="play-button" href="https://voca.ro/13eyvRnKnXA0" target="_blank">🔊 Play</a>
     </div>
 
     <div class="song">
-      <p><strong>2. Song 2</strong></p>
-      <a href="https://voca.ro/1EFxuF833pOE" target="_blank">🔊 Click to Play</a>
+      <p><strong>Song 2</strong></p>
+      <a class="play-button" href="https://voca.ro/1EFxuF833pOE" target="_blank">🔊 Play</a>
     </div>
 
     <div class="song">
-      <p><strong>3. Song 3</strong></p>
-      <a href="https://voca.ro/16NCMEUtBn2j" target="_blank">🔊 Click to Play</a>
+      <p><strong>Song 3</strong></p>
+      <a class="play-button" href="https://voca.ro/16NCMEUtBn2j" target="_blank">🔊 Play</a>
     </div>
 
     <div class="song">
-      <p><strong>4. Song 4</strong></p>
-      <a href="https://voca.ro/1blSLzBfHA8G" target="_blank">🔊 Click to Play</a>
+      <p><strong>Song 4</strong></p>
+      <a class="play-button" href="https://voca.ro/1blSLzBfHA8G" target="_blank">🔊 Play</a>
     </div>
 
     <div class="song">
-      <p><strong>5. Song 5</strong></p>
-      <a href="https://voca.ro/17wgsMOF3qZW" target="_blank">🔊 Click to Play</a>
+      <p><strong>Song 5</strong></p>
+      <a class="play-button" href="https://voca.ro/17wgsMOF3qZW" target="_blank">🔊 Play</a>
     </div>
 
   </div>
