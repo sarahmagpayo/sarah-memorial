@@ -51,39 +51,32 @@
     <!-- Sarah's Video -->
     <iframe src="https://drive.google.com/file/d/1mUtyvyhZB0TuYuRtApF3k3rX4TItgR0S/preview" height="360" allow="autoplay"></iframe>
 
-    <!-- Music Section -->
-    <h2>🎵 Sarah’s Music Collection</h2>
+    <!-- Sarah’s Music via Vocaroo -->
+    <h2>🎵 Sarah’s Voice and Songs</h2>
 
     <div class="song">
-      <p><strong>All I Ask</strong></p>
-      <audio controls>
-        <source src="https://www.dropbox.com/scl/fi/y2ub0k3bjj52i9msecco6/All-I-ask-recording.m4a?raw=1" type="audio/mp4">
-        Your browser does not support the audio element.
-      </audio>
+      <p><strong>1. Song 1</strong></p>
+      <iframe src="https://voca.ro/13eyvRnKnXA0/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
     </div>
 
     <div class="song">
-      <p><strong>Bakit Ba</strong></p>
-      <audio controls>
-        <source src="https://www.dropbox.com/scl/fi/apx86nihl3cmonqp2tdr2/Bakit-Ba-recording.m4a?raw=1" type="audio/mp4">
-        Your browser does not support the audio element.
-      </audio>
+      <p><strong>2. Song 2</strong></p>
+      <iframe src="https://voca.ro/1EFxuF833pOE/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
     </div>
 
     <div class="song">
-      <p><strong>Bakit Hanap Hanap Kita</strong></p>
-      <audio controls>
-        <source src="https://www.dropbox.com/scl/fi/ahg0ibhl0h2qvgbk52r5v/Bakit-Hanap-Hanap-kita-recording.m4a?raw=1" type="audio/mp4">
-        Your browser does not support the audio element.
-      </audio>
+      <p><strong>3. Song 3</strong></p>
+      <iframe src="https://voca.ro/16NCMEUtBn2j/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
     </div>
 
     <div class="song">
-      <p><strong>Binhi</strong></p>
-      <audio controls>
-        <source src="https://www.dropbox.com/scl/fi/wdi4gwn6pw8wo0z2qlp20/Binhi-recording.m4a?raw=1" type="audio/mp4">
-        Your browser does not support the audio element.
-      </audio>
+      <p><strong>4. Song 4</strong></p>
+      <iframe src="https://voca.ro/1blSLzBfHA8G/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
+    </div>
+
+    <div class="song">
+      <p><strong>5. Song 5</strong></p>
+      <iframe src="https://voca.ro/17wgsMOF3qZW/embed" width="100%" height="100" frameborder="0" allow="autoplay"></iframe>
     </div>
 
   </div>
