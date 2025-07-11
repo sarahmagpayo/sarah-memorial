@@ -66,8 +66,9 @@
   <div class="container">
 
     <!-- Sarah's Photo -->
-    <img src="https://drive.google.com/uc?export=view&id=1jTScj9UMEdWQ1aOAI7sMIjmwMV6O3Byu" 
-         alt="Sarah Jean Castro Magpayo" />
+   <img src="https://drive.google.com/uc?export=view&id=1jTScj9UMEdWQ1aOAI7sMIjmwMV6O3Byu" 
+     alt="Sarah Jean Castro Magpayo" 
+     style="max-width: 100%; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
     <h1>🌸 In Loving Memory of Sarah Jean Castro Magpayo</h1>
     <p>“Her light lives on in every note, every memory, and every heart she touched.”</p>
