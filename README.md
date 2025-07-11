@@ -73,17 +73,17 @@
     <div class="song"><p><strong>4. Bakit Hanap hanap kita</strong></p><a class="play-button" href="https://voca.ro/1blSLzBfHA8G" target="_blank">🔊 Play</a></div>
     <div class="song"><p><strong>5. Binhi</strong></p><a class="play-button" href="https://voca.ro/17wgsMOF3qZW" target="_blank">🔊 Play</a></div>
 
-    <div class="song"><p><strong>6. Di lang Ikaw</strong></p><a class="play-button" href="https://voca.ro/1cIAcPAuGdqh" target="_blank">🔊 Play</a></div>
-    <div class="song"><p><strong>7. Forevers Not Enough</strong></p><a class="play-button" href="https://voca.ro/156H9c8AhTnV" target="_blank">🔊 Play</a></div>
-    <div class="song"><p><strong>8. Hanggang Ngayon</strong></p><a class="play-button" href="https://voca.ro/15sVjn6GeWGE" target="_blank">🔊 Play</a></div>
-    <div class="song"><p><strong>9. If I aint got you</strong></p><a class="play-button" href="https://voca.ro/12zF91ailsQx" target="_blank">🔊 Play</a></div>
-    <div class="song"><p><strong>10. I love you goodbye</strong></p><a class="play-button" href="https://voca.ro/1kcQgKWqP1TZ" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>6. California Kingbed</strong></p><a class="play-button" href="https://voca.ro/1cIAcPAuGdqh" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>7. Di lang Ikaw</strong></p><a class="play-button" href="https://voca.ro/156H9c8AhTnV" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>8. Forevers Not Enough</strong></p><a class="play-button" href="https://voca.ro/15sVjn6GeWGE" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>9. Hanggang Ngayon</strong></p><a class="play-button" href="https://voca.ro/12zF91ailsQx" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>10. If I aint got you</strong></p><a class="play-button" href="https://voca.ro/1kcQgKWqP1TZ" target="_blank">🔊 Play</a></div>
 
-    <div class="song"><p><strong>11. kunin mo an and lahat sa akin</strong></p><a class="play-button" href="https://voca.ro/1nNwXK3CxrDL" target="_blank">🔊 Play</a></div>
-    <div class="song"><p><strong>12. love recording</strong></p><a class="play-button" href="https://voca.ro/110GEhlvtK1C" target="_blank">🔊 Play</a></div>
-    <div class="song"><p><strong>13. saving all my love for you</strong></p><a class="play-button" href="https://voca.ro/12dk6LhDF7K4" target="_blank">🔊 Play</a></div>
-    <div class="song"><p><strong>14. Stone cold</strong></p><a class="play-button" href="https://voca.ro/13vscv1Yhy7w" target="_blank">🔊 Play</a></div>
-    <div class="song"><p><strong>15. walang Iba</strong></p><a class="play-button" href="https://voca.ro/1nTWQ0fIwgbM" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>11. I love you goodbye</strong></p><a class="play-button" href="https://voca.ro/1nNwXK3CxrDL" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>12. Kunin mo an and lahat sa akin</strong></p><a class="play-button" href="https://voca.ro/110GEhlvtK1C" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>13. Love recording</strong></p><a class="play-button" href="https://voca.ro/12dk6LhDF7K4" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>14. Saving all my love for you</strong></p><a class="play-button" href="https://voca.ro/13vscv1Yhy7w" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>15. Stone cold</strong></p><a class="play-button" href="https://voca.ro/1nTWQ0fIwgbM" target="_blank">🔊 Play</a></div>
 
   </div>
 </body>
