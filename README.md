@@ -66,7 +66,7 @@
   <div class="container">
 
     <!-- Sarah's Photo -->
-   <img src="https://drive.google.com/uc?export=view&id=1jTScj9UMEdWQ1aOAI7sMIjmwMV6O3Byu" 
+  <img src="https://i.imgur.com/VqCmcSZ.jpg" 
      alt="Sarah Jean Castro Magpayo" 
      style="max-width: 100%; border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
