@@ -86,7 +86,7 @@
     <div class="song"><p><strong>15. Stone Cold</strong></p><a class="play-button" href="https://voca.ro/1nTWQ0fIwgbM" target="_blank">🔊 Play</a></div>
 
     <!-- NEW SONG -->
-    <div class="song"><p><strong>16. You Are My Song</strong></p><a class="play-button" href="https://voca.ro/1hNR0868pLNX" target="_blank">🔊 Play</a></div>
+    <div class="song"><p><strong>16. Walang Iba</strong></p><a class="play-button" href="https://voca.ro/1hNR0868pLNX" target="_blank">🔊 Play</a></div>
 
   </div>
 </body>
